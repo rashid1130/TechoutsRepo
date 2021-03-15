@@ -53,7 +53,7 @@ public class PalindromeSmallBig {
 		if (count == 0) 
 
 			System.out.println("No palindrome found"); 
-
+		
 		else { 
 
 			System.out.println("Smallest palindrome: " + smallest); 
